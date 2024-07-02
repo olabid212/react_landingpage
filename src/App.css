@@ -5,3 +5,11 @@
   box-sizing: border-box;
   /* overflow: hidden; */
 }
+
+h1{
+  color: #4D4D4D;
+}
+
+p{
+  color: #717171;
+}
